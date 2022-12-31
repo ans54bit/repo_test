@@ -7,3 +7,6 @@ asfujahgufs
 shufha
 
 console.log('teajf')
+
+
+let a = 10
