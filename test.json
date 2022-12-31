@@ -1,4 +1,17 @@
 {
   "id": "9183751983671895",
-  "data": []
+  "data": [
+	{
+		"username": "john",
+		"password": "doe"
+	},
+	{
+		"username": "inul",
+		"password": "daratista"
+	},
+	{
+		"username": "slamet",
+		"password": "kopling"
+	}
+  ]
 }
